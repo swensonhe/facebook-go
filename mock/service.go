@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/swensonhe/wabee-backend/facebook"
+import "github.com/swensonhe/facebook-go"
 
 // Service is a mock facebook.Service.
 type Service struct {
